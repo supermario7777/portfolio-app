@@ -1,0 +1,13 @@
+body {
+    margin: 0px auto;
+    max-width: 1439px;;
+    background: #002137;
+    color: #FAF0E6;
+}
+
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}

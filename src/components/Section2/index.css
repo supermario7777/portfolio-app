@@ -1,0 +1,47 @@
+.Section2{
+    justify-content: center;
+    align-items: flex-start;
+    padding: 160px 80px;
+    gap: 10px;
+    height: 622px;
+    border-top: 1px solid #FAF0E6;
+}
+
+.Section2 h1{
+    height: 144px;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.Section2 p{
+    height: 30px;
+    font-family: 'Kanit';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Section2 button{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 24px;
+    gap: 10px;
+    width: 205px;
+    height: 56px;
+    background: #FF4F00;
+    border-radius: 10px;
+    color: inherit;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    border: 1px solid #FAF0E6;
+    cursor: pointer;
+}
