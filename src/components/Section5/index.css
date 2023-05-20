@@ -1,0 +1,22 @@
+.Section5{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 160px 80px 64px;
+    gap: 370px;
+    width: 1440px;
+    height: 296px;
+    border-top: 1px solid #FAF0E6;
+}
+
+.Section5 h1{
+    width: 1280px;
+    height: 72px;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+
+}

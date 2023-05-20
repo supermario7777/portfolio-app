@@ -1,0 +1,68 @@
+.Experience{
+    display: flex;
+}
+
+.year{
+    width: 143px;
+    height: 22px;
+    font-family: 'Courier New';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    margin-top: 0px;
+}
+
+.role-country-description{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    width: 467px;
+    height: 140px;
+}
+
+.role{
+    width: 271px;
+    height: 22px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    list-style-type: square;
+}
+
+.role::marker{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    border-radius: 0px;
+    color: #FF4F00;
+}
+
+.country{
+    width: 271px;
+    height: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+}
+
+.description{
+    width: 467px;
+    height: 72px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+}

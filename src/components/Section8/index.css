@@ -1,14 +1,17 @@
-.Section2{
+.Section8{
+    display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     padding: 160px 80px;
     gap: 10px;
-    height: 622px;
+    height: 550px;
     border-top: 1px solid #FAF0E6;
 }
 
-.Section2 h1{
-    height: 144px;
+.Section8 h1{
+    width: 1280px;
+    height: 72px;
     font-family: 'Courier New';
     font-style: normal;
     font-weight: 700;
@@ -16,7 +19,8 @@
     line-height: 72px;
 }
 
-.Section2 p{
+.Section8 p{
+    width: 629px;
     height: 30px;
     font-family: 'Kanit';
     font-style: normal;
@@ -25,7 +29,7 @@
     line-height: 30px;
 }
 
-.Section2 button{
+.Section8 button{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -45,7 +49,7 @@
     cursor: pointer;
 }
 
-.Section2 button:hover{
+.Section8 button:hover{
     display: flex;
     justify-content: center;
     align-items: center;
